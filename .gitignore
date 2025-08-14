@@ -1,0 +1,28 @@
+# Environment & credentials
+.env
+credentials.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/  
+
+# Database / local data
+db/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Backup / temp files
+requirements_backup.txt
+*.bak
+*.tmp
+
+
+

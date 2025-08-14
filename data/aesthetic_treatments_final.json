@@ -1,0 +1,281 @@
+[
+  {
+    "treatment": "Botox",
+    "description": "Botulinum toxin injections to relax facial muscles and reduce wrinkles.",
+    "price": {
+      "1 area": "€180",
+      "2 areas": "€240",
+      "3 areas": "€300",
+      "4 areas": "€360",
+      "Additional areas": "€60",
+      "Jaw slimming": "€325",
+      "Nefertiti neck lift": "€325",
+      "Excessive sweating": "€450"
+    },
+    "recommended_frequency": "Every 3-4 months",
+    "pre_care": [
+      "Avoid alcohol 24 hours before treatment.",
+      "Avoid blood thinners like aspirin/ibuprofen 1 week prior."
+    ],
+    "post_care": [
+      "Remain upright for 4 hours.",
+      "Avoid touching or massaging the area for 24 hours.",
+      "No exercise for 24 hours."
+    ],
+    "effects": [
+      "Reduces fine lines and wrinkles",
+      "Slims jawline (masseter treatment)",
+      "Treats excessive sweating (hyperhidrosis)"
+    ],
+    "requires_numbing_cream": false,
+    "post_procedure_reactions": "Usually minimal. Mild redness or swelling may occur depending on treatment.",
+    "makeup_after_hours": "Most treatments allow makeup after 12-24 hours.",
+    "duration": 30
+  },
+  {
+    "treatment": "Dermal Fillers",
+    "description": "Injectable fillers to restore volume and contour facial features.",
+    "price": {
+      "1ml": "€300",
+      "2ml": "€650",
+      "3ml": "€950",
+      "4ml": "€1250",
+      "Cheek fillers 1ml": "€350"
+    },
+    "recommended_frequency": "Every 6-12 months",
+    "pre_care": [
+      "Avoid alcohol and blood thinners 24 hours prior."
+    ],
+    "post_care": [
+      "Apply cold compress to reduce swelling.",
+      "Avoid makeup for 12 hours.",
+      "Avoid saunas or heat exposure for 48 hours."
+    ],
+    "effects": [
+      "Restores volume loss in cheeks and lips",
+      "Smooths out deep lines and folds",
+      "Enhances facial contours"
+    ],
+    "requires_numbing_cream": false,
+    "post_procedure_reactions": "Usually minimal. Mild redness or swelling may occur depending on treatment.",
+    "makeup_after_hours": "Most treatments allow makeup after 12-24 hours.",
+    "duration": 40
+  },
+  {
+    "treatment": "Profhilo",
+    "description": "Bioremodeling injectable treatment to improve skin hydration and elasticity.",
+    "price": {
+      "Per 2ml syringe": "€350",
+      "Course of 2": "€650",
+      "Course of 6": "€1800"
+    },
+    "recommended_frequency": "Every 4 weeks (initially 2 sessions recommended)",
+    "pre_care": [],
+    "post_care": [],
+    "effects": [
+      "Improves skin elasticity and hydration",
+      "Stimulates collagen and elastin production",
+      "Creates a glowing, plump skin appearance"
+    ],
+    "requires_numbing_cream": false,
+    "post_procedure_reactions": "Usually minimal. Mild redness or swelling may occur depending on treatment.",
+    "makeup_after_hours": "Most treatments allow makeup after 12-24 hours.",
+    "duration": 30
+  },
+  {
+    "treatment": "Microneedling",
+    "description": "Skin rejuvenation using micro-needles to stimulate collagen.",
+    "price": {
+      "1 session": "€130",
+      "4 sessions": "€450"
+    },
+    "recommended_frequency": "Every 4-6 weeks",
+    "pre_care": [
+      "Avoid sun exposure and retinoids for 3 days prior."
+    ],
+    "post_care": [
+      "Avoid makeup for 24 hours.",
+      "Use gentle skincare and SPF."
+    ],
+    "effects": [
+      "Stimulates collagen for anti-aging",
+      "Improves skin texture and acne scars",
+      "Minimizes pores and fine lines"
+    ],
+    "requires_numbing_cream": false,
+    "post_procedure_reactions": "Usually minimal. Mild redness or swelling may occur depending on treatment.",
+    "makeup_after_hours": "Most treatments allow makeup after 12-24 hours.",
+    "duration": 45
+  },
+  {
+    "treatment": "Mesotherapy",
+    "description": "Vitamin injection for skin hydration and brightening.",
+    "price": {
+      "1 Bottle": "€150",
+      "4 Bottles": "€500"
+    },
+    "recommended_frequency": "Every 2-4 weeks (for 3-4 sessions)",
+    "pre_care": [],
+    "post_care": [],
+    "effects": [
+      "Deep hydration and nourishment of skin",
+      "Brightens dull complexion",
+      "Improves skin tone and elasticity"
+    ],
+    "requires_numbing_cream": false,
+    "post_procedure_reactions": "Usually minimal. Mild redness or swelling may occur depending on treatment.",
+    "makeup_after_hours": "Most treatments allow makeup after 12-24 hours.",
+    "duration": 30
+  },
+  {
+    "treatment": "Ultrasound HIFU (High-Intensity Focused Ultrasound)",
+    "description": "A non-invasive treatment that uses focused ultrasound energy to lift and tighten the skin.",
+    "price": {
+      "Jawline": "€350",
+      "Full Face": "€600",
+      "Full Face + Neck": "€850"
+    },
+    "recommended_frequency": "Every 6-12 months",
+    "pre_care": [
+      "Avoid retinol products for 2 days prior.",
+      "Stay hydrated."
+    ],
+    "post_care": [
+      "Slight redness is normal post-treatment.",
+      "Avoid heat, saunas, and intense exercise for 48 hours."
+    ],
+    "effects": [
+      "Non-surgical facelift and skin tightening",
+      "Lifts cheeks, jawline and eyebrows",
+      "Reduces fine lines and sagging"
+    ],
+    "requires_numbing_cream": true,
+    "post_procedure_reactions": "Mild redness and slight swelling may occur; tenderness can last up to 1 week.",
+    "makeup_after_hours": "Usually safe to apply makeup after 24 hours if skin is not irritated.",
+    "duration": 60
+  },
+  {
+    "treatment": "Thermage",
+    "description": "Radiofrequency skin tightening treatment for lifting and smoothing skin.",
+    "price": {
+      "Eyes": "€850",
+      "Full Face": "€1200",
+      "Face + Neck": "€1500"
+    },
+    "recommended_frequency": "Once every 12-18 months",
+    "pre_care": [
+      "Cleanse skin before treatment, no makeup.",
+      "Avoid aspirin 48 hours prior."
+    ],
+    "post_care": [
+      "Apply moisturizer daily.",
+      "Use SPF 30+ and avoid sun for 1 week."
+    ],
+    "effects": [
+      "Improves skin firmness and tightness",
+      "Reduces wrinkles and fine lines",
+      "Contours face and neck"
+    ],
+    "requires_numbing_cream": false,
+    "post_procedure_reactions": "Temporary redness or mild swelling; typically resolves within hours.",
+    "makeup_after_hours": "You can wear makeup the next day.",
+    "duration": 75
+  },
+  {
+    "treatment": "Teeth Whitening (LED Cool Light)",
+    "description": "Non-invasive procedure using LED light to brighten tooth enamel and reduce stains.",
+    "price": "€150 - €250",
+    "recommended_frequency": "Every 6-12 months depending on lifestyle",
+    "pre_care": [
+      "Brush teeth before session.",
+      "Avoid staining foods 24 hours prior."
+    ],
+    "post_care": [
+      "Avoid coffee, tea, red wine for 48 hours.",
+      "Use sensitive toothpaste if needed."
+    ],
+    "effects": [
+      "Whitens teeth by several shades",
+      "Removes stains from coffee, wine and smoking",
+      "Enhances smile aesthetics"
+    ],
+    "requires_numbing_cream": false,
+    "post_procedure_reactions": "Usually minimal. Mild redness or swelling may occur depending on treatment.",
+    "makeup_after_hours": "Most treatments allow makeup after 12-24 hours.",
+    "duration": 40
+  },
+  {
+    "treatment": "Laser Pigmentation Removal",
+    "description": "Targets dark spots, sun damage, and melasma with precise laser light.",
+    "price": "€150 - €300 per session",
+    "recommended_frequency": "Every 4-6 weeks, 3-5 sessions recommended",
+    "pre_care": [
+      "Avoid sun exposure for 2 weeks before treatment.",
+      "Discontinue retinoids 3 days prior."
+    ],
+    "post_care": [
+      "Expect mild redness and flaking.",
+      "Apply SPF daily and avoid sun exposure."
+    ],
+    "effects": [
+      "Reduces dark spots, freckles and sun damage",
+      "Improves skin tone clarity",
+      "Treats melasma and age spots"
+    ],
+    "requires_numbing_cream": false,
+    "post_procedure_reactions": "Usually minimal. Mild redness or swelling may occur depending on treatment.",
+    "makeup_after_hours": "Most treatments allow makeup after 12-24 hours.",
+    "duration": 30
+  },
+  {
+    "treatment": "Laser Hair Removal",
+    "description": "Painless laser treatment to reduce hair growth by destroying hair follicles.",
+    "price": {
+      "Upper lip": "€50",
+      "Underarms": "€80",
+      "Full legs": "€200",
+      "Bikini line": "€120"
+    },
+    "recommended_frequency": "Every 4-6 weeks, 6-8 sessions",
+    "pre_care": [
+      "Shave the area 24 hours before treatment.",
+      "Avoid sun or tanning for 2 weeks."
+    ],
+    "post_care": [
+      "Apply soothing aloe vera gel.",
+      "Avoid hot showers or sweating for 24-48 hours."
+    ],
+    "effects": [
+      "Long-term reduction in hair growth",
+      "Smooth and hair-free skin",
+      "Reduces ingrown hairs and irritation"
+    ],
+    "requires_numbing_cream": false,
+    "post_procedure_reactions": "Usually minimal. Mild redness or swelling may occur depending on treatment.",
+    "makeup_after_hours": "Most treatments allow makeup after 12-24 hours.",
+    "duration": 30
+  },
+  {
+    "treatment": "IPL Photofacial (Intense Pulsed Light)",
+    "description": "Rejuvenates skin using broad-spectrum light to treat redness, pigmentation, and fine lines.",
+    "price": "€180 per session",
+    "recommended_frequency": "Every 3-4 weeks, typically 3-6 sessions",
+    "pre_care": [
+      "Avoid direct sun 2 weeks prior.",
+      "No retinol or acids 5 days before."
+    ],
+    "post_care": [
+      "Avoid sunlight for 1 week.",
+      "Use gentle cleanser and SPF daily."
+    ],
+    "effects": [
+      "Reduces redness and broken capillaries",
+      "Improves pigmentation and sun spots",
+      "Stimulates collagen and rejuvenates skin"
+    ],
+    "requires_numbing_cream": false,
+    "post_procedure_reactions": "Usually minimal. Mild redness or swelling may occur depending on treatment.",
+    "makeup_after_hours": "Most treatments allow makeup after 12-24 hours.",
+    "duration": 30
+  }
+]

@@ -1,6 +1,8 @@
 # Esthetic Clinique RAG + n8n Appointment Manager
 
-[![Watch the demo video](https://img.youtube.com/vi/RSWfQzccIQk/maxresdefault.jpg)](https://youtu.be/RSWfQzccIQk)
+<a href="https://youtu.be/RSWfQzccIQk" target="_blank">
+  <img src="https://raw.githubusercontent.com/Yushan9293/esthetic_clinique_rag_n8n_appointment_manager/main/cover.png" width="720">
+</a>
 
 AI-powered assistant for aesthetic clinics, integrating **LangChain RAG** and **n8n workflow automation** to manage clinic appointments.  
 Supports **booking**, **rescheduling**, and **canceling** appointments with real-time Google Calendar & Google Sheets synchronization.
